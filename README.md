@@ -1,5 +1,5 @@
 # TabUnite: Efficient Encoding Schemes for Flow and Diffusion Tabular Generative Models
-Official Implementation of the Paper - TabUnite: An Efficient Encoding Framework for Tabular Data Generation.
+Official Implementation of the Paper - TabUnite: Efficient Encoding Schemes for Flow and Diffusion Tabular Generative Models.
 
 ## Usage
 
