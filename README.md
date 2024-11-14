@@ -1,4 +1,4 @@
-# TabUnite: Efficient Encoding Schemes for Flow and Diffusion Tabular Generative Models
+# TabUnite: A Universal Categorical Encoding Scheme for Mixed-Type Tabular Data
 Official Implementation of the Paper - TabUnite: Efficient Encoding Schemes for Flow and Diffusion Tabular Generative Models.
 
 ## Usage
